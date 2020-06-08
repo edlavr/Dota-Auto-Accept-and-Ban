@@ -1,4 +1,4 @@
-# Dota-Auto-Accept-and-Ban
+# Dota Auto Accept and Ban
 
 ## Requirements
 
