@@ -60,7 +60,7 @@ def auto_ban(hero):
         auto_ban(hero)
 
 
-# auto_accept()
+auto_accept()
 
 if len(sys.argv) > 2:
     with open('heroes.txt', 'r') as heroes_list:
